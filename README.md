@@ -22,9 +22,9 @@ The hardware description (HDL) was implemented using two main modeling styles in
 
 The following open-source tools were used for development and verification:
 
-* **[Icarus Verilog](http://iverilog.icarus.com):** The compiler and simulator used to process the Verilog code and generate the value change dump (`.vcd`) files.
-* **[GTKWave](http://gtkwave.sourceforge.net):** The waveform viewer used to visually analyze the simulation results and verify the correct functionality of the circuits.
-* **[Yosys](http://www.clifford.at/yosys/):** The synthesis tool used to generate schematics and analyze the structural representation of the circuits.
+* **[Icarus Verilog](https://packages.fedoraproject.org/pkgs/iverilog/iverilog/):** The compiler and simulator used to process the Verilog code and generate the value change dump (`.vcd`) files.
+* **[GTKWave](https://gtkwave.sourceforge.net/):** The waveform viewer used to visually analyze the simulation results and verify the correct functionality of the circuits.
+* **[Yosys](https://packages.fedoraproject.org/pkgs/yosys/yosys/):** The synthesis tool used to generate schematics and analyze the structural representation of the circuits.
 
 
 ---

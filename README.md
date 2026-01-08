@@ -2,8 +2,6 @@
 
 This repository is a collection of 30 digital circuits implemented using Verilog HDL, covering both combinational and sequential logic. The project's goal was to design, write testbenches for, and simulate each circuit individually, demonstrating practical skills in digital design and hardware verification.
 
-In addition to the behavioral modeling of each circuit, the project also implements all circuits from scratch using structural modeling, where only the basic gates (NOT, AND, OR) are used to build more complex modules. This approach allows a deeper understanding of the internal workings of each design, similar to how IC design engineers create functional modules and then hand them off for integration.
-
 The exercises are based on the reference guide: *“30 Digital Circuits (Combinational + Sequential) Verilog + Testbench”* by [THE SILICON SANDBOX](https://www.linkedin.com/posts/the1silicon1sandbox_30-digital-circuits-verilog-testbench-activity-7401068262324715520-ZGv7/?utm_source=share&utm_medium=member_android&rcm=ACoAAFIQpiYBmTP2AfGWXjBImU4u9eYQnwlK2tk).
 
 ---

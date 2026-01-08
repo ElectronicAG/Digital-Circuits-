@@ -1,0 +1,11 @@
+// Date: 07/01/2026
+// Autor: Alan Gomez
+// Module: Full_Subtractor
+// --------------------------------------------------
+
+module Full_Subtractor (
+    // Inputs
+    // Outputs
+);
+
+endmodule

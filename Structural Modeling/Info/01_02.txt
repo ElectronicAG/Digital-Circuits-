@@ -1,0 +1,31 @@
+// ALAN GOMEZ
+
+Half Adder
+
+"A half adder is a basic combinational circuit that adds two single-bit binary inputs (A and B) to produce a SUM using an XOR gate and a CARRY using an AND gate, without considering any carry-in from a previous stage.
+
+Performs binary addition of two 1-bit inputs, generating a SUM (A ⊕ B) and CARRY (A · B).
+Cannot handle carry-in from a previous stage, making it suitable only for the first stage of multi-bit addition."
+
+GeeksforGeeks. (2025, October 11). Half adder. GeeksforGeeks. https://www.geeksforgeeks.org/digital-logic/half-adder-in-digital-logic/
+
+Full Adder
+
+"Full Adder is a combinational circuit that adds three inputs and produces two outputs. The first two inputs are A and B and the third input is an input carry as C-IN. The output carry is designated as C-OUT and the normal output is designated as S which is SUM.
+
+The C-OUT is also known as the majority 1's detector, whose output goes high when more than one input is high.
+A full adder logic is designed in such a manner that can take eight inputs together to create a byte-wide adder and cascade the carry bit from one adder to another.
+We use a full adder because when a carry-in bit is available, another 1-bit adder must be used since a 1-bit half-adder does not take a carry-in bit.
+A 1-bit full adder adds three operands and generates 2-bit results.
+Full Adder Truth Table
+A Full Adder takes three binary inputs:
+
+A (first bit)
+B (second bit)
+C-IN (carry input)
+And it produces two outputs:
+
+Sum (S)
+Carry Out (C-OUT)"
+
+GeeksforGeeks. (2025, October 8). Full Adder. GeeksforGeeks. https://www.geeksforgeeks.org/digital-logic/full-adder-in-digital-logic/
